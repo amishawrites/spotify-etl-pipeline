@@ -37,7 +37,7 @@
   <p>
     The pipeline follows the below architecture:
   </p>
-  <img src="architecture.png" alt="Architecture Diagram">
+  <img src="image.png" alt="Architecture Diagram">
 
   <ol>
     <li>Spotify data is extracted using the <code>extract.py</code> Lambda function, which utilizes the Spotify API to fetch the required data and store it in an S3 bucket.</li>
